@@ -1,5 +1,7 @@
 'use strict';
 
+console.log('--<[ Using modified Nanoexpress ]>--');
+
 function _interopDefault (ex) { return (ex && (typeof ex === 'object') && 'default' in ex) ? ex['default'] : ex; }
 
 var uWS = _interopDefault(require('uWebSockets.js'));

@@ -1,3 +1,4 @@
+// NOTE: patched from 2.0.2
 const nanoexpress = require('./external-lib/nanoexpress');
 
 const app = nanoexpress();
