@@ -1,4 +1,4 @@
-const nanoexpress = require('nanoexpress');
+const nanoexpress = require('./external-lib/nanoexpress');
 
 const app = nanoexpress();
 const channel_name = 'my-channel';
